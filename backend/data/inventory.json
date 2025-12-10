@@ -1,0 +1,76 @@
+[
+  {
+    "product_id": 1,
+    "online_stock": 45,
+    "store_stock": {
+      "store_1": 12,
+      "store_2": 8,
+      "store_3": 15
+    }
+  },
+  {
+    "product_id": 2,
+    "online_stock": 23,
+    "store_stock": {
+      "store_1": 5,
+      "store_2": 7,
+      "store_3": 4
+    }
+  },
+  {
+    "product_id": 3,
+    "online_stock": 67,
+    "store_stock": {
+      "store_1": 20,
+      "store_2": 18,
+      "store_3": 22
+    }
+  },
+  {
+    "product_id": 4,
+    "online_stock": 15,
+    "store_stock": {
+      "store_1": 3,
+      "store_2": 5,
+      "store_3": 2
+    }
+  },
+  {
+    "product_id": 5,
+    "online_stock": 34,
+    "store_stock": {
+      "store_1": 10,
+      "store_2": 9,
+      "store_3": 11
+    }
+  },
+  {
+    "product_id": 6,
+    "online_stock": 89,
+    "store_stock": {
+      "store_1": 25,
+      "store_2": 30,
+      "store_3": 28
+    }
+  },
+  {
+    "product_id": 7,
+    "online_stock": 28,
+    "store_stock": {
+      "store_1": 6,
+      "store_2": 8,
+      "store_3": 7
+    }
+  },
+  {
+    "product_id": 8,
+    "online_stock": 42,
+    "store_stock": {
+      "store_1": 12,
+      "store_2": 10,
+      "store_3": 14
+    }
+  }
+]
+
+

@@ -1,0 +1,23 @@
+.App {
+  text-align: left;
+}
+
+/* Smooth transitions */
+* {
+  transition: all 0.3s ease;
+}
+
+/* Button hover effects */
+.btn-primary {
+  @apply bg-abfrl-green text-white px-6 py-3 rounded-lg font-semibold hover:bg-abfrl-dark-green transform hover:scale-105 shadow-lg hover:shadow-xl;
+}
+
+.btn-secondary {
+  @apply bg-white text-abfrl-green border-2 border-abfrl-green px-6 py-3 rounded-lg font-semibold hover:bg-abfrl-light-gold transform hover:scale-105;
+}
+
+.btn-gold {
+  @apply bg-abfrl-gold text-white px-6 py-3 rounded-lg font-semibold hover:bg-yellow-600 transform hover:scale-105 shadow-lg;
+}
+
+

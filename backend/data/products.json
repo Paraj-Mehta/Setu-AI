@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "name": "Classic White Shirt",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=400",
+    "price": 2499,
+    "category": "Shirts",
+    "color": "White",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Premium cotton shirt perfect for formal occasions"
+  },
+  {
+    "id": 2,
+    "name": "Navy Blue Blazer",
+    "image": "https://images.unsplash.com/photo-1594938291221-94d18b8348d8?w=400",
+    "price": 5999,
+    "category": "Blazers",
+    "color": "Navy Blue",
+    "sizes": ["M", "L", "XL", "XXL"],
+    "description": "Elegant blazer for business and casual wear"
+  },
+  {
+    "id": 3,
+    "name": "Denim Jeans",
+    "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=400",
+    "price": 3499,
+    "category": "Jeans",
+    "color": "Blue",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "description": "Comfortable fit denim jeans"
+  },
+  {
+    "id": 4,
+    "name": "Black Leather Jacket",
+    "image": "https://images.unsplash.com/photo-1551028719-00167b16eac5?w=400",
+    "price": 8999,
+    "category": "Jackets",
+    "color": "Black",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Stylish leather jacket for all seasons"
+  },
+  {
+    "id": 5,
+    "name": "Khaki Chinos",
+    "image": "https://images.unsplash.com/photo-1624378515195-6bbdb73f2197?w=400",
+    "price": 2799,
+    "category": "Pants",
+    "color": "Khaki",
+    "sizes": ["28", "30", "32", "34", "36"],
+    "description": "Versatile chinos for smart casual look"
+  },
+  {
+    "id": 6,
+    "name": "Red Casual T-Shirt",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=400",
+    "price": 1299,
+    "category": "T-Shirts",
+    "color": "Red",
+    "sizes": ["S", "M", "L", "XL", "XXL"],
+    "description": "Comfortable cotton t-shirt for everyday wear"
+  },
+  {
+    "id": 7,
+    "name": "Grey Wool Sweater",
+    "image": "https://images.unsplash.com/photo-1576566588028-4147f3842f27?w=400",
+    "price": 3999,
+    "category": "Sweaters",
+    "color": "Grey",
+    "sizes": ["S", "M", "L", "XL"],
+    "description": "Warm and cozy wool sweater"
+  },
+  {
+    "id": 8,
+    "name": "Brown Formal Shoes",
+    "image": "https://images.unsplash.com/photo-1549298916-b41d501d3772?w=400",
+    "price": 4999,
+    "category": "Shoes",
+    "color": "Brown",
+    "sizes": ["7", "8", "9", "10", "11"],
+    "description": "Premium leather formal shoes"
+  }
+]
+
+

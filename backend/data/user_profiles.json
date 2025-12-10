@@ -1,0 +1,26 @@
+[
+  {
+    "user_id": "user_001",
+    "last_seen_channel": "web",
+    "preferences": {
+      "categories": ["Shirts", "Blazers"],
+      "colors": ["White", "Navy Blue", "Black"],
+      "price_range": [1000, 10000]
+    },
+    "loyalty_points": 120,
+    "name": "Demo User"
+  },
+  {
+    "user_id": "user_002",
+    "last_seen_channel": "mobile",
+    "preferences": {
+      "categories": ["Jeans", "T-Shirts"],
+      "colors": ["Blue", "Red"],
+      "price_range": [500, 5000]
+    },
+    "loyalty_points": 85,
+    "name": "Guest User"
+  }
+]
+
+
